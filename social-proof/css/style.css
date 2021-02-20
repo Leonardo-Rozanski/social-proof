@@ -1,0 +1,7 @@
+body {
+  background-image: url(/assets/img/bg-pattern-top-desktop.png), url(/assets/img/bg-pattern-bottom-desktop.png);
+  background-repeat: no-repeat;
+}
+h1 {
+  text-align: right;
+}
